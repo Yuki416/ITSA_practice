@@ -7,5 +7,6 @@
 | `makeChange`       | 題目23. 找零錢問題    |
 | `mile_to_kilometer`| 題目2. 英哩轉公里     |
 | `matrix_transpose` | 題目11. 矩陣反轉      |
+| `gcd`              | 題目10. 輾轉相除法    |   
 
 
