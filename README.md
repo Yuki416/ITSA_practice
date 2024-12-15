@@ -8,5 +8,5 @@
 | `mile_to_kilometer`| 題目2. 英哩轉公里     |
 | `matrix_transpose` | 題目11. 矩陣反轉      |
 | `gcd`              | 題目10. 輾轉相除法    |   
-| `display_digit`              | 題目1. 矩陣數字顯示    |
+| `display_digit`    | 題目1. 矩陣數字顯示    |
 
