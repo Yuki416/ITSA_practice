@@ -1,32 +1,17 @@
 #include <stdio.h>
 #include <string.h>
-#include <assert.h>
-#include <stdlib.h>
-#define MAX_LEN 85
+#include <ctype.h>
 
-int main(){
-    int K; //測資數
-    scanf("%d",&K);
-    for(int i=0;i<K;i++){
-        int N; // char amount
-        scanf("%d",&N);
-        getchar(); // remove \n
-        
-        char str[MAX_LEN];
-        scanf("%s",&str);
-
-
-        int count=0;
-        for(int j=0;j<N;j++){
-            if(str[j]=='.'){
-                j+=2;
-                count++;
-            }
-        } 
-        printf("%d\n",count);
-    }
+int main() {
+    char str[] = "lon\n";
+    int len = strlen(str);
+    char result[5];    // 改為5，為結束符號預留空間
     
-
-
+    for(int i = 0; i < len; i++) {
+        result[i] = toupper(str[i]);
+    }
+    result[len] = '\0';    // 加入字串結束符號
+    
+    puts(result);
     return 0;
 }
