@@ -10,5 +10,6 @@
 | `gcd`              | 題目10. 輾轉相除法    |   
 | `display_digit`    | 題目1. 矩陣數字顯示    |
 | `stand_guard`      | [C_GD01-易] 站崗哨兵安排  |
-| `recursive`        | 題目12. 遞迴程式練習   |
+| `recursive`        | 題目12. 遞迴程式練習      |
+| `token`            | 題目17. 英文斷詞       |
 
