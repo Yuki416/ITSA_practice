@@ -14,3 +14,5 @@
 | `token`            | 題目17. 英文斷詞       |
 | `Prime_test`       | 題目8. 質數判別        |
 | `leap_year`        | 題目36. 平、閏年判定   |
+| `square_area`      | Problem 3.計算正方形面積 |
+| `add_number`       | Problem 4.兩數總和    |
