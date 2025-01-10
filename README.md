@@ -16,3 +16,4 @@
 | `leap_year`        | 題目36. 平、閏年判定   |
 | `square_area`      | Problem 3.計算正方形面積 |
 | `add_number`       | Problem 4.兩數總和    |
+| `count_sqaure`     | Problem 6.計算兩數和的平方值 |
