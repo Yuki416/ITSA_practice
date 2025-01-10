@@ -12,5 +12,5 @@
 | `stand_guard`      | [C_GD01-易] 站崗哨兵安排  |
 | `recursive`        | 題目12. 遞迴程式練習      |
 | `token`            | 題目17. 英文斷詞       |
-| `Prime_test`            | 題目8. 質數判別       |
-
+| `Prime_test`       | 題目8. 質數判別        |
+| `leap_year`        | 題目36. 平、閏年判定   |
