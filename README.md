@@ -19,6 +19,7 @@
 | `count_sqaure`     | Problem 6.計算兩數和的平方值 |
 | `find_max`         | Problem 7.比大小 |
 | `count_cube`       | Problem 8.計算平方值與立方值 |
-| `count_power`       | Problem 9.計算i次方的值 |
+| `count_power`      | Problem 9.計算i次方的值 |
 | `salary`           | Problem 17.薪水計算 |
+| `BMI`              | Problem 13.BMI計算 |
 
