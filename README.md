@@ -17,3 +17,6 @@
 | `square_area`      | Problem 3.計算正方形面積 |
 | `add_number`       | Problem 4.兩數總和    |
 | `count_sqaure`     | Problem 6.計算兩數和的平方值 |
+| `find_max`         | Problem 7.比大小 |
+| `count_cube`       | Problem 8.計算平方值與立方值 |
+
