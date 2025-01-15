@@ -35,3 +35,4 @@
 | `trapezoid_area`   | Problem 2.計算梯型面積 |
 | `dictionary`       | Problem 4.中英字典 |
 | `strrev`           | Problem 3.輸出反向數字 |
+| `split_number`     | Problem 2.輸出數字 |
