@@ -36,3 +36,7 @@
 | `dictionary`       | Problem 4.中英字典 |
 | `strrev`           | Problem 3.輸出反向數字 |
 | `split_number`     | Problem 2.輸出數字 |
+| <br> | <br> |
+| `count_summation` | Problem 24.計算兩整數間所有整數的總和 |
+
+
