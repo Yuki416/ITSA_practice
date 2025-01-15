@@ -32,3 +32,5 @@
 | `guessY`           | Problem 6.猜猜Y值 |
 | `switch_syntax`    | Problem 8.Online Game 選擇角色 |
 | `phone_bill`       | Problem 15.電話費計算 |
+| `trapezoid_area`   | Problem 2.計算梯型面積 |
+| `dictionary`       | Problem 4.中英字典 |
