@@ -31,3 +31,4 @@
 | `seasons`          | Problem 9.季節判定 |
 | `guessY`           | Problem 6.猜猜Y值 |
 | `switch_syntax`    | Problem 8.Online Game 選擇角色 |
+| `phone_bill`       | Problem 15.電話費計算 |
