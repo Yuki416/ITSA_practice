@@ -1,0 +1,17 @@
+time         100                                         srcID          2   dstID 4294967295                                         TRA_ctrl_packet generating
+time         100   recID          2   pktID          0   srcID          2   dstID 4294967295   preID          2   nexID          2   TRA_ctrl_packet from 2
+time         100   senID          2   pktID          0   srcID          2   dstID 4294967295   preID          2   nexID 4294967295   TRA_ctrl_packet from 2
+time         110   recID          0   pktID          0   srcID          2   dstID 4294967295   preID          2   nexID 4294967295   TRA_ctrl_packet from 2
+time         110   recID          1   pktID          0   srcID          2   dstID 4294967295   preID          2   nexID 4294967295   TRA_ctrl_packet from 2
+time         110   senID          0   pktID          0   srcID          2   dstID 4294967295   preID          0   nexID 4294967295   TRA_ctrl_packet from 2
+time         110   recID          4   pktID          0   srcID          2   dstID 4294967295   preID          2   nexID 4294967295   TRA_ctrl_packet from 2
+time         110   senID          1   pktID          0   srcID          2   dstID 4294967295   preID          1   nexID 4294967295   TRA_ctrl_packet from 2
+time         110   senID          4   pktID          0   srcID          2   dstID 4294967295   preID          4   nexID 4294967295   TRA_ctrl_packet from 2
+time         120   recID          2   pktID          0   srcID          2   dstID 4294967295   preID          0   nexID 4294967295   TRA_ctrl_packet from 2
+time         120   recID          1   pktID          0   srcID          2   dstID 4294967295   preID          0   nexID 4294967295   TRA_ctrl_packet from 2
+time         120   recID          0   pktID          0   srcID          2   dstID 4294967295   preID          1   nexID 4294967295   TRA_ctrl_packet from 2
+time         120   recID          3   pktID          0   srcID          2   dstID 4294967295   preID          1   nexID 4294967295   TRA_ctrl_packet from 2
+time         120   senID          3   pktID          0   srcID          2   dstID 4294967295   preID          3   nexID 4294967295   TRA_ctrl_packet from 2
+time         120   recID          2   pktID          0   srcID          2   dstID 4294967295   preID          4   nexID 4294967295   TRA_ctrl_packet from 2
+time         120   recID          2   pktID          0   srcID          2   dstID 4294967295   preID          1   nexID 4294967295   TRA_ctrl_packet from 2
+time         130   recID          1   pktID          0   srcID          2   dstID 4294967295   preID          3   nexID 4294967295   TRA_ctrl_packet from 2

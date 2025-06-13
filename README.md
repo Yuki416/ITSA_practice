@@ -40,5 +40,6 @@
 | `count_summation`  | Problem 24.計算兩整數間所有整數的總和 |
 | `triangle_area`    | Problem 1.計算三角形面積 |
 | `encounter_time`   | Problem 14.相遇時間計算 |
+| `countDate`        | [MM02-易] What Day Is The Big Day |
 
 

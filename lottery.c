@@ -3,8 +3,9 @@
 #include <string.h>
 
 #define MAXSIZE 9
+#define int long long 
 
-int main(){
+signed main(){
     // prize type
     char special[MAXSIZE],first[3][MAXSIZE];
     scanf("%s",special);
@@ -14,7 +15,7 @@ int main(){
 
     // input invoice
     int n;
-    scanf("%d",&n);
+    scanf("%lld",&n);
     char (*invoices)[MAXSIZE]=(char (*)[MAXSIZE])malloc(n*sizeof(char[MAXSIZE]));
     int count[7]={0}; // special , first ,second, ..., sixth
     long long total=0;
@@ -50,7 +51,7 @@ int main(){
 
             for(int j=0;j<3;j++){
                 if(strcmp(invoices[i]+(k-1),first[j]+(k-1))==0){
-                    // printf("k=%d invoice=%s first[j]=%s\n",k,invoice+(k-1),first[j]+k-1);
+                    // printf("k=%lld invoice=%s first[j]=%s\n",k,invoice+(k-1),first[j]+k-1);
                     hit[i]=1;
                     count[k]++;
                     switch (k) {
@@ -80,7 +81,7 @@ int main(){
 
     // 輸出各獎項中獎張數
     for (int i = 0; i < 7; i++) {
-        printf("%d", count[i]);
+        printf("%lld", count[i]);
         if (i < 6) {
             printf(" ");
         }
